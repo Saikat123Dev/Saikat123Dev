@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **js/ts Open-source project**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
